@@ -50,7 +50,7 @@ Step 1 is outside of the scope of this document.
 Please contact an administrator of your organization's
 Dashbord environment to obtain access.
 Steps 2 and 3 are outlined in the
-[UMAPI documentation](https://www.adobe.io/products/usermanagement/docs/gettingstarted.html).
+[UMAPI documentation](https://adobe-apiplatform.github.io/umapi-documentation/en/getstarted.html).
 
 Once access is obtained, and an integration is set up,
 you will need the following configuration values:
